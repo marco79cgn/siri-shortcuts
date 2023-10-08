@@ -2,6 +2,9 @@
 
 Da teilweise schwer auffindbar in den Apps, anbei eine generierte Liste jeder einzelnen Folge mit Album-Link.
 
+Stand 08.10.2023: Folge 1 - 228
+Zufällige Folge anhören: [Siri Shortcut](https://routinehub.co/shortcut/16920/)
+
 Folge 1: und der Super-Papagei  
 [Apple Music](https://music.apple.com/de/album/folge-1-und-der-super-papagei/1092529875) | [Spotify](https://open.spotify.com/album/4N9tvSjWfZXx3eHKblYEWQ) | [Cover](https://is4-ssl.mzstatic.com/image/thumb/Music49/v4/f8/03/dc/f803dc2d-49b9-0c91-c0b9-8d6cc2371cd5/886445739350.jpg/600x600bb.jpg)
 
