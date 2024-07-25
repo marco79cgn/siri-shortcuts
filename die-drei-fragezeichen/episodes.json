@@ -1336,5 +1336,35 @@
       "cover":"https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/90/b7/2f90b777-86d1-c1c3-9b85-b8e5da917f8c/196589971913.jpg/{w}x{h}bb.jpg",
       "apple":"https://music.apple.com/de/album/folge-223-und-der-knochenmann/1686187662",
       "spotify":"https://open.spotify.com/album/451jKBwuSNrNgLlqEAZfra"
+   },
+   {
+      "name":"Folge 224: Die Yacht des Verrats",
+      "cover":"https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/a8/f5/86a8f5e5-a360-2fb6-a9bc-5aae1f2c46ea/196872211306.jpg/{w}x{h}bb.jpg",
+      "apple":"https://music.apple.com/de/album/folge-224-die-yacht-des-verrats/1752449423",
+      "spotify":"https://open.spotify.com/album/7JhdaReI98XYFrzb3jJPFa"
+   },
+   {
+      "name":"Folge 225: und der Puppenmacher",
+      "cover":"https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/fd/a4/49fda45f-d292-6c17-3207-fd2bf6834b4d/196872211399.jpg/{w}x{h}bb.jpg",
+      "apple":"https://music.apple.com/de/album/folge-225-und-der-puppenmacher/1752450507",
+      "spotify":"https://open.spotify.com/album/0FuC7q4bJG41g1naKBx4ot"
+   },
+   {
+      "name":"Folge 226: und der Puppenmacher",
+      "cover":"https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/52/70/df52700b-3624-a332-5e56-0928c774bd0b/196872211412.jpg/{w}x{h}bb.jpg",
+      "apple":"https://music.apple.com/de/album/folge-226-die-spur-der-toten/1752449751",
+      "spotify":"https://open.spotify.com/album/3Sv5tE8PcAlGY6Ys2ISQXF"
+   },
+   {
+      "name":"Folge 227: Melodie der Rache",
+      "cover":"https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/44/64/db446445-ecc0-e951-3e7e-0f4692d9e8b3/196872211429.jpg/{w}x{h}bb.jpg",
+      "apple":"https://music.apple.com/de/album/folge-227-melodie-der-rache/1752449669",
+      "spotify":"https://open.spotify.com/album/2CMXywsh8wVXXCmr2bLTZ6"
+   },
+   {
+      "name":"Folge 228: Der Ruf der Krähen",
+      "cover":"https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/e6/4e/80e64e33-9120-2cd3-d596-0712e08d80bb/196872195507.jpg/{w}x{h}bb.jpg",
+      "apple":"https://music.apple.com/de/album/folge-228-der-ruf-der-kr%C3%A4hen/1757389491",
+      "spotify":"https://open.spotify.com/album/6sNAlohza1ZTWVMGhFTGJW"
    }
 ]
