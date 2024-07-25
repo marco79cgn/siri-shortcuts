@@ -683,11 +683,11 @@ Folge 224: Die Yacht des Verrats
 Folge 225: und der Puppenmacher  
 [Apple Music](https://music.apple.com/de/album/folge-225-und-der-puppenmacher/1752450507) | [Spotify](https://open.spotify.com/album/0FuC7q4bJG41g1naKBx4ot) | [Cover](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/fd/a4/49fda45f-d292-6c17-3207-fd2bf6834b4d/196872211399.jpg/600x600bb.jpg)
 
-Folge 226: Die Spur der Toten
+Folge 226: Die Spur der Toten  
 [Apple Music](https://music.apple.com/de/album/folge-226-die-spur-der-toten/1752449751) | [Spotify](https://open.spotify.com/album/3Sv5tE8PcAlGY6Ys2ISQXF) | [Cover](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/52/70/df52700b-3624-a332-5e56-0928c774bd0b/196872211412.jpg/600x600bb.jpg)
 
-Folge 227: Melodie der Rache
+Folge 227: Melodie der Rache  
 [Apple Music](https://music.apple.com/de/album/folge-227-melodie-der-rache/1752449669) | [Spotify](https://open.spotify.com/album/2CMXywsh8wVXXCmr2bLTZ6) | [Cover](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/44/64/db446445-ecc0-e951-3e7e-0f4692d9e8b3/196872211429.jpg/600x600bb.jpg)
 
-Folge 228: Der Ruf der Krähen
+Folge 228: Der Ruf der Krähen  
 [Apple Music](https://music.apple.com/de/album/folge-228-der-ruf-der-kr%C3%A4hen/1757389491) | [Spotify](https://open.spotify.com/album/6sNAlohza1ZTWVMGhFTGJW) | [Cover](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/e6/4e/80e64e33-9120-2cd3-d596-0712e08d80bb/196872195507.jpg/600x600bb.jpg)
