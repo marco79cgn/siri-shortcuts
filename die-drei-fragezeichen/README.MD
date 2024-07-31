@@ -2,7 +2,7 @@
 
 Da teilweise schwer auffindbar in den Apps, anbei eine generierte Liste jeder einzelnen Folge mit Album-Link.
 
-Stand 08.10.2023: Folge 1 - 228
+Stand 01.07.2024: Folge 1 - 228
 
 Zufällige Folge anhören: [Siri Shortcut](https://routinehub.co/shortcut/16920/)
 
